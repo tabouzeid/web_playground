@@ -72,13 +72,13 @@ p {
     margin-left: 25px;
 }
 
-.content {
+#content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
+#benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
