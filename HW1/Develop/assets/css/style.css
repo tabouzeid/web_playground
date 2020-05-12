@@ -80,6 +80,7 @@ p {
 
 #benefits {
     margin-right: 20px;
+    margin-bottom: 32px;
     padding: 20px;
     clear: both;
     float: right;
@@ -90,17 +91,14 @@ p {
 }
 
 .benefit-lead {
-    margin-bottom: 32px;
     color: #ffffff;
 }
 
 .benefit-brand {
-    margin-bottom: 32px;
     color: #ffffff;
 }
 
 .benefit-cost {
-    margin-bottom: 32px;
     color: #ffffff;
 }
 
