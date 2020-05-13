@@ -50,13 +50,13 @@ p {
     font-size: 16px;
 }
 
-.frontimg {
+#frontimg {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
 }
 
-.frontimg img {
+#frontimg img {
     height: 100%;
     width: 100%;
     object-fit: cover;
